@@ -25,8 +25,11 @@ Me llamo Nahuel Rojas, me empuja la curiosidad en el desarrollo web, el Arte y l
 </br>
 </br>
 </br>
-📬 nadaro@outlook.com </br>
-📝 [C.V](https://drive.google.com/file/d/1uO07T_DnipZ_jQUIzosZCGdwQV7b8po7/view "C.V") </br>
+
+📬 nadaro@outlook.com
+
+📝 [C.V](https://drive.google.com/file/d/1uO07T_DnipZ_jQUIzosZCGdwQV7b8po7/view "C.V")
+
 🤓 [LinkeIN](https://www.linkedin.com/in/nahuelrojas-dev/ "LinkeIN") 
 
 </br>
