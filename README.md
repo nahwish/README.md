@@ -7,7 +7,9 @@
 
 Me llamo Nahuel Rojas, me empuja la curiosidad en el desarrollo web, el Arte y los Videojuegos, soy desarrollador FullStack, inquieto y autodidacta. Actualmente estoy en la etapa final del Bootcamp de Soy Henry, en el cual estamos desarrollando un ecommerce de Arte digital, en el proyecto somos 8 desarrolladores los que estamos colaborando junto a un Team Leader que nos guía.
 
-
+</br>
+</br>
+</br>
 
 
 **SKILLS**
@@ -20,10 +22,16 @@ Me llamo Nahuel Rojas, me empuja la curiosidad en el desarrollo web, el Arte y l
 	Control de versiones : GIT & GITHUB;
 	Metodología : SCRUM;  
 	
-📬 nadaro@outlook.com
-📝 [C.V](https://drive.google.com/file/d/1uO07T_DnipZ_jQUIzosZCGdwQV7b8po7/view "C.V")
+</br>
+</br>
+</br>
+📬 nadaro@outlook.com </br>
+📝 [C.V](https://drive.google.com/file/d/1uO07T_DnipZ_jQUIzosZCGdwQV7b8po7/view "C.V") </br>
 🤓 [LinkeIN](https://www.linkedin.com/in/nahuelrojas-dev/ "LinkeIN") 
 
+</br>
+</br>
+</br>
 
 | || |
 |-------| ----- |----|
