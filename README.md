@@ -1,11 +1,12 @@
 # README.md
 
 
-**Hola!**
+**Hola! Me llamo Nahuel**
 
+# **NAHUEL ROJAS**
+Full Stack Development🚀
 
-
-Me llamo Nahuel Rojas, me empuja la curiosidad en el desarrollo web, el Arte y los Videojuegos, soy desarrollador FullStack, inquieto y autodidacta. Actualmente estoy en la etapa final del Bootcamp de Soy Henry, en el cual estamos desarrollando un ecommerce de Arte digital, en el proyecto somos 8 desarrolladores los que estamos colaborando junto a un Team Leader que nos guía.
+Me empuja la curiosidad en el desarrollo web, el Arte y los Videojuegos, soy desarrollador FullStack, inquieto y autodidacta. Actualmente estoy en la etapa final del Bootcamp de Soy Henry, en el cual estamos desarrollando un ecommerce de Arte digital, en el proyecto somos 8 desarrolladores los que estamos colaborando junto a un Team Leader que nos guía.
 
 </br>
 </br>
